@@ -7,10 +7,12 @@ const About = () => {
             </div>
             <div>
                 <p className="text-xl mt-20">
-                    I am a Data Scientist.
+                Expert in NLP and LLMs with hands-on experience engineering transformative solutions. Specialized in developing and deploying advanced language models, leveraging data-driven methodologies to solve complex problems and enhance decision-making processes.
+
                 </p>
                 <p className="text-xl">
-                    I am passionate.
+                Proficient in Python and SQL, I bridge the gap between traditional and modern data-driven approaches. A dedicated team player committed to pushing boundaries, employing innovative strategies, and leveraging data insights to drive performance and innovation in NLP applications.
+
                 </p>
             </div>
             </div>
