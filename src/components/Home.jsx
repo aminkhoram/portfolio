@@ -8,12 +8,12 @@ const Home = () => {
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-5xl font-bold">
-            I'm a Front-end Web Developer
+            I'm a Data Scientist
           </h2>
           <p className=" py-4 max-w-md">
-            I have 2 years of experience building and designing softwares.
-            Currently, I love to work on web applications using techonologies
-            like React, Tailwind and Node JS.
+            I have 5 years of experience building and designing machine learning models.
+            Currently, I am working on NLP and LLMs and am trying to build my expertise in this field.
+            You can observe my projects and certifications below.
           </p>
           <div>
             <Link
