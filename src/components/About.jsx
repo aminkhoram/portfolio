@@ -10,7 +10,7 @@ const About = () => {
                     I am a Data Scientist.
                 </p>
                 <p className="text-xl">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, pariatur unde perspiciatis voluptates iste fugit corrupti? At praesentium repellendus sint quas blanditiis quaerat voluptate a ipsa libero quae culpa ipsam iure, minus harum, necessitatibus tempore tempora cupiditate aliquam pariatur omnis ducimus consectetur. Eum ratione aut deserunt pariatur voluptatum impedit totam?
+                    I am passionate.
                 </p>
             </div>
             </div>
