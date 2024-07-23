@@ -6,30 +6,15 @@ const NavBar = () => {
   const [nav, setNav] = useState(false);
 
   const links = [
-    {
-      id: 1,
-      link: "home",
-    },
-    {
-      id: 2,
-      link: "about",
-    },
-    {
-      id: 3,
-      link: "portfolio",
-    },
-    {
-      id: 4,
-      link: "skills",
-    },
-    {
-      id: 5,
-      link: "contact",
-    },
+    { id: 1, link: "home" },
+    { id: 2, link: "about" },
+    { id: 3, link: "portfolio" },
+    { id: 4, link: "skills" },
+    { id: 5, link: "contact" },
   ];
 
   return (
-    <div className="flex justify-between items-center w-full h-20 px-4 bg-red-100 fixed">
+    <div className="flex justify-between items-center w-full h-20 px-4 bg-light-blue fixed">
       <div>
         <h1 className="text-5xl font-signature ml-2">Ian</h1>
       </div>
@@ -55,7 +40,7 @@ const NavBar = () => {
       </div>
 
       {nav && (
-        <ul className="flex flex-col justify-center items-center absolute top-0 left-0 w-full h-screen  text-gray-500">
+        <ul className="flex flex-col justify-center items-center absolute top-0 left-0 w-full h-screen text-gray-500">
           {links.map(({ id, link }) => (
             <li
               key={id}
